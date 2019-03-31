@@ -13,6 +13,20 @@
         "inventory": 1000,
         "category": "Electronics",
         "price": "$279"
+      },
+      {
+        "id": 3,
+        "name": "Apple IphoneX 128GB",
+        "inventory": 100,
+        "category": "Electronics",
+        "price": "$350"
+      },
+      {
+        "id": 4,
+        "name": "Apple IphoneX 256GB",
+        "inventory": 100,
+        "category": "Electronics",
+        "price": "$450"
       }
     ],
     "profile": {
