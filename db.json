@@ -1,0 +1,22 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Apple Ipad Mini 2 16GB",
+        "inventory": 1000,
+        "category": "Electronics",
+        "price": "$229"
+      },
+      {
+        "id": 2,
+        "name": "Apple Ipad Mini 2 32GB",
+        "inventory": 1000,
+        "category": "Electronics",
+        "price": "$279"
+      }
+    ],
+    "profile": {
+      "first-name": "Adarsh",
+      "last-name": "Sharma"
+    }
+  }
