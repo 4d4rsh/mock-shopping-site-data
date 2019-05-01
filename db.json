@@ -6,7 +6,7 @@
         "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini2.jpg",
         "inventory": 1000,
         "category": "Electronics",
-        "price": "$229"
+        "price": 229
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2019.jpg",
         "inventory": 1000,
         "category": "Electronics",
-        "price": "$279"
+        "price": 279
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
         "inventory": 100,
         "category": "Electronics",
-        "price": "$350"
+        "price": 350
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "image": "https://images-na.ssl-images-amazon.com/images/I/411SxsDFpsL._SY445_.jpg",
         "inventory": 100,
         "category": "Electronics",
-        "price": "$450"
+        "price": 450
       }
     ],
     "profile": {
